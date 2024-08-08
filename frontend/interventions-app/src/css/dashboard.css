@@ -1,0 +1,52 @@
+/* dashboard.css */
+.card-header {
+  background-color: #f8f9fa;
+}
+
+.card-body {
+  background-color: #ffffff;
+}
+
+.list-group-item {
+  border: 1px solid #dee2e6;
+}
+
+
+/* Custom styles for the Intervention component */
+.card {
+  margin-top: 20px;
+}
+
+.card-header {
+  background-color: #f8f9fa;
+  border-bottom: 1px solid #dee2e6;
+}
+
+.card-body {
+  background-color: #ffffff;
+  border: 1px solid #dee2e6;
+}
+
+.form-label {
+  font-weight: bold;
+}
+
+.list-group-item {
+  border: 1px solid #dee2e6;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  border: none;
+}
+
+.btn-danger {
+  background-color: #dc3545;
+  border: none;
+}
+
+.alert {
+  margin-top: 10px;
+}

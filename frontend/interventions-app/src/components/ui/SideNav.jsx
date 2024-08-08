@@ -1,4 +1,5 @@
 import React from "react";
+import "bootstrap/dist/css/bootstrap.min.css";
 
 const SideNav = () => {
   return (
@@ -64,7 +65,7 @@ const SideNav = () => {
                     Dashboard
                   </p>
                 </a>
-                
+
               </li>
             </ul>
           </nav>

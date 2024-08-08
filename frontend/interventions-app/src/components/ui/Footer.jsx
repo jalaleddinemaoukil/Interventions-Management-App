@@ -1,4 +1,8 @@
 import React from "react";
+import "bootstrap/dist/css/bootstrap.min.css";
+//materail ui
+
+
 
 const Footer = () => {
   return (
